@@ -1,21 +1,60 @@
 # End User License Agreement (EULA)
 
-This software is provided for use as an Elasticsearch IDE plugin.
+Last updated: 2026-02-11
 
-## Usage
+This End User License Agreement ("Agreement") governs your use of the Elasticsearcher plugin ("Plugin"). By installing or using the Plugin, you agree to these terms.
 
-- You may use the plugin for personal and commercial development workflows.
-- You may not redistribute this plugin as your own product without written permission.
+## 1. License Grant
 
-## Warranty
+Subject to this Agreement, Elasticsearcher grants you a limited, non-exclusive, non-transferable, revocable license to install and use the Plugin for personal or commercial development workflows.
 
-The plugin is provided "as is", without warranties of any kind.
+## 2. Pricing and Eligibility
 
-## Liability
+- Standard license: USD 10 per user.
+- Student license: free of charge for eligible students.
 
-The authors are not liable for any claim, damages or other liability arising from use of the plugin.
+Student free access may require valid proof of current student status (for example, an academic email or student document).
 
-## Contact
+## 3. Permitted Use
+
+You may:
+
+- Use the Plugin in your own projects and internal company workflows.
+- Install the Plugin on your own devices/accounts according to your license type.
+
+## 4. Restrictions
+
+You may not:
+
+- Redistribute, resell, sublicense, rent, lease, or share the Plugin as a standalone product.
+- Reverse engineer, decompile, or modify the Plugin except where such rights cannot be restricted by applicable law.
+- Remove copyright or proprietary notices.
+
+## 5. Ownership
+
+All rights, title, and interest in and to the Plugin remain with Elasticsearcher and its licensors. This Agreement does not transfer ownership.
+
+## 6. Updates and Changes
+
+Elasticsearcher may release updates, fixes, and new versions at its discretion. Pricing, student eligibility rules, and product functionality may be updated in future releases.
+
+## 7. Disclaimer of Warranties
+
+The Plugin is provided "as is" and "as available," without warranties of any kind, express or implied, including merchantability, fitness for a particular purpose, and non-infringement.
+
+## 8. Limitation of Liability
+
+To the maximum extent permitted by law, Elasticsearcher is not liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of data, profits, or business interruption arising from use of the Plugin.
+
+## 9. Termination
+
+This Agreement is effective until terminated. Your rights under this Agreement terminate automatically if you violate these terms.
+
+## 10. Governing Law
+
+This Agreement is governed by applicable law in the jurisdiction of the licensor, unless otherwise required by mandatory consumer law.
+
+## 11. Contact
 
 For product information and documentation, visit:
 [https://elasticsearcher.netlify.app/](https://elasticsearcher.netlify.app/)

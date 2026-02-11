@@ -21,7 +21,7 @@ Full documentation and product site: [https://elasticsearcher.netlify.app/](http
 
 ## Installation
 
-- Install from JetBrains Marketplace (link can be added here)
+- Install from JetBrains Marketplace
 - Or follow setup instructions from the docs site above
 
 ## Support
