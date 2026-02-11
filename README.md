@@ -15,11 +15,7 @@ Full documentation and product site: [https://elasticsearcher.netlify.app/](http
 
 ## Screenshots
 
-### Dark Theme
-
 ![Elasticsearcher dark workspace](images/workspace-dark.webp)
-
-### Light Theme
 
 ![Elasticsearcher light workspace](images/workspace-light.webp)
 
